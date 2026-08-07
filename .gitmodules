@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/pdelias/pdelias.r-universe.dev
 	branch = HEAD
 [submodule "simOutrank"]
 	path = simOutrank
-	url = https://github.com/pdelias/simoutrank
+	url = https://github.com/pdelias/simOutrank
+[submodule "spectralDEMATEL"]
+	path = spectralDEMATEL
+	url = https://github.com/pdelias/spectralDEMATEL
